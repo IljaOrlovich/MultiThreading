@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "Accord": "3.8.0"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "Accord/3.8.0": {
+        "runtime": {
+          "lib/netstandard2.0/Accord.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.6134"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accord/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7kJrB570dO5ELim+2KWQNozuvWO9/BuZfZspdFy36fcWPNF2CEccblLuILeUlI8QJYd2DlBy0bfK8BlCx/uayA==",
+      "path": "accord/3.8.0",
+      "hashPath": "accord.3.8.0.nupkg.sha512"
+    }
+  }
+}

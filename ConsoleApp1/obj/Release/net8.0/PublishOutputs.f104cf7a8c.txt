@@ -1,0 +1,7 @@
+C:\Users\iljao\Desktop\Multifreding\Accord.dll.config
+C:\Users\iljao\Desktop\Multifreding\ConsoleApp1.exe
+C:\Users\iljao\Desktop\Multifreding\ConsoleApp1.dll
+C:\Users\iljao\Desktop\Multifreding\ConsoleApp1.deps.json
+C:\Users\iljao\Desktop\Multifreding\ConsoleApp1.runtimeconfig.json
+C:\Users\iljao\Desktop\Multifreding\ConsoleApp1.pdb
+C:\Users\iljao\Desktop\Multifreding\Accord.dll

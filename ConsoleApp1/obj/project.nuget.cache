@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5752kZ1akz8wTvpCFksATyv6Xc+If8JQs64O4CblnGaZD6YUWniP+xo34oyuSY0jD+TtAqvr5cGeYre3RoQ9AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iljao\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iljao\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
